@@ -1,0 +1,64 @@
+@title Word Adventure
+@showtext off
+
+# Unit 1 - Greetings
+🌅 | morning
+☀️ | afternoon
+🌙 | evening
+tip | Say: I'm ... / My name's ...
+tip | Say: I'm ... years old.
+ask | What do you say? | Good {w}!
+
+# Unit 1 - Colours
+🌈 | colour | -
+💙 | blue
+❤️ | red
+💗 | pink
+💛 | yellow
+tip | My favourite colour is ...
+ask | What's your favourite colour? | My favourite colour is {w}.
+
+# Unit 2 - My, his, her
+🙋 | my | your
+👦 | his | his
+👧 | her | her
+🔤 | spell | -
+ask | What's {v} name? | {W} name's ...
+
+# Unit 3 - This, that, he, she
+👇 | this | -
+👉 | that | -
+👨 | he | -
+👩 | she | -
+tip | Who's this/that? - This/That is + name.
+tip | He/She is + name.
+tip | Is this/that + name? - Yes, it is. / No, it isn't.
+
+# Unit 3 - People
+👫 | friend
+👩‍🏫 | teacher
+ask | Who's this? | This is my {w}.
+ask | Who's that? | That is my {w}.
+
+# Unit 4 - Body
+💇 | hair | -
+✋ | hand / hands
+👄 | mouth
+👃 | nose
+👁️ | eye / eyes
+👂 | ear / ears
+💪 | arm / arms
+ask | What's this? | It's {a} {w}.
+ask | What are these? | They're {pl}.
+do | Touch your {w}!
+
+# Unit 5 - Hobbies
+🏊 | swimming
+💃 | dancing
+🎨 | painting
+🏃 | running
+🎤 | singing songs
+✏️ | drawing pictures
+📷 | taking photos
+ask | What's your hobby? | I like {w}.
+ask | What's your hobby? | It's {w}.
